@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "be462d13169893e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a4e583af666960f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce922d73d40c1c3e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "6d272bac-f30d-4291-8ea9-ff1606b97aca.png"
+              },
+              "icon": "lucide-image",
+              "title": "6d272bac-f30d-4291-8ea9-ff1606b97aca"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "305fb886052342b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4520578670f01747",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22bc8ce3d0507c97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c1ade1f56a2ae0c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "207231adedc26d3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "669b5ca59d7770a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "704e40ed68944119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4948fbb06e3e659",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "688462f1e8ecceca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e34e4b0d5fc351f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bfa8f913bce78c08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Chat": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "22bc8ce3d0507c97",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "LICENSE.md",
+    "Book Cover.md",
+    "OpenAI Playground 2025-08-30 at 11.00.15(1).png",
+    "Original Brainstorm.md",
+    "Pasted image 20250830112401.png",
+    "Concept Art.md",
+    "output.png",
+    "e8846fd1-d4dc-45bf-b558-376912aadb8f.png",
+    "18d2490f-d7ab-4f85-84ec-063da53d251e.png",
+    "352e7bfc-ca4e-4064-b80c-dc652e8014d8.png",
+    "b177b3b1-ecae-4b97-8af6-d0acc92e7b4a.png",
+    "6d272bac-f30d-4291-8ea9-ff1606b97aca.png",
+    "a2f1ef09-8520-4eff-8136-e7972b7787a8.png",
+    "ef20840d-2428-4128-b468-f37c4596a1ac.png",
+    "Random Side Story Ideas.md",
+    "Words of Wisdom.md",
+    "WIP Minor Gods.md",
+    "The Ontari.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts"
+  ]
+}
