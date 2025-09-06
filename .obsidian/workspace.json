@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5a4e583af666960f",
+        "id": "4eec5b9124b253ca",
         "type": "tabs",
         "children": [
           {
-            "id": "ce922d73d40c1c3e",
+            "id": "f4d6bc813910cd55",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "6d272bac-f30d-4291-8ea9-ff1606b97aca.png"
-              },
-              "icon": "lucide-image",
-              "title": "6d272bac-f30d-4291-8ea9-ff1606b97aca"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -168,25 +166,31 @@
   },
   "active": "22bc8ce3d0507c97",
   "lastOpenFiles": [
+    "spoiler-ideas/New Text Document.txt",
+    "New Text Document.txt",
+    "wip",
     "Welcome.md",
+    "wip/The Ontari.md",
+    "notes-and-ai-history",
+    "notes-and-ai-history/Original Brainstorm.md",
     "LICENSE.md",
-    "Book Cover.md",
-    "OpenAI Playground 2025-08-30 at 11.00.15(1).png",
-    "Original Brainstorm.md",
-    "Pasted image 20250830112401.png",
-    "Concept Art.md",
-    "output.png",
-    "e8846fd1-d4dc-45bf-b558-376912aadb8f.png",
-    "18d2490f-d7ab-4f85-84ec-063da53d251e.png",
-    "352e7bfc-ca4e-4064-b80c-dc652e8014d8.png",
-    "b177b3b1-ecae-4b97-8af6-d0acc92e7b4a.png",
-    "6d272bac-f30d-4291-8ea9-ff1606b97aca.png",
-    "a2f1ef09-8520-4eff-8136-e7972b7787a8.png",
-    "ef20840d-2428-4128-b468-f37c4596a1ac.png",
-    "Random Side Story Ideas.md",
-    "Words of Wisdom.md",
-    "WIP Minor Gods.md",
-    "The Ontari.md",
+    "images/OpenAI Playground 2025-08-30 at 11.00.15(1).png",
+    "images/Book Cover.md",
+    "images/Concept Art.md",
+    "images/a2f1ef09-8520-4eff-8136-e7972b7787a8.png",
+    "images/352e7bfc-ca4e-4064-b80c-dc652e8014d8.png",
+    "images/18d2490f-d7ab-4f85-84ec-063da53d251e.png",
+    "images/6d272bac-f30d-4291-8ea9-ff1606b97aca.png",
+    "images/output.png",
+    "images",
+    "spoiler-ideas/Words of Wisdom.md",
+    "spoiler-ideas/Random Side Story Ideas.md",
+    "spoiler-ideas",
+    "images/Pasted image 20250830112401.png",
+    "images/e8846fd1-d4dc-45bf-b558-376912aadb8f.png",
+    "images/b177b3b1-ecae-4b97-8af6-d0acc92e7b4a.png",
+    "images/ef20840d-2428-4128-b468-f37c4596a1ac.png",
+    "wip/WIP Minor Gods.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
